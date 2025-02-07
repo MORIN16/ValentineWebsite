@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f9e3e3;
+    font-family: 'Arial', sans-serif;
+    cursor: pointer;
+}
+
+.container {
+    text-align: center;
+}
+
+#H1 {
+    font-size: 3em;
+    color: #f76666;
+}
+
+.gif_container img {
+    width: 100%; 
+    height: auto;
+    border-radius: 10px;
+    margin-top: 20px;
+}
